@@ -19,7 +19,3 @@ This project demonstrates a complete data engineering lifecycle using a **Medall
 * **SQL Analytics:** Automatically calculates average temperatures and max wind speeds using SQL queries inside the pipeline.
 * **Data Visualization:** Generates a `weather_chart.png` trend report after every run.
 
-## 📋 How to Run
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/weather-data-pipeline.git](https://github.com/YOUR_USERNAME/weather-data-pipeline.git)
